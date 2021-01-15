@@ -8,11 +8,11 @@ body {
     color: gold;
   }
   img {
-    width: 600px;
+    width: 500px;
     border-radius: 50%;
     border: 5px solid white;
   }
   li {
-    margin-left: 135px;
+    margin-left: 85px;
     line-height: 200%;
   }

@@ -1,0 +1,18 @@
+body {
+    background: darkslategray;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  a {
+    color: gold;
+  }
+  img {
+    width: 600px;
+    border-radius: 50%;
+    border: 5px solid white;
+  }
+  li {
+    margin-left: 135px;
+    line-height: 200%;
+  }
